@@ -1,7 +1,7 @@
 {
   "name": "@sakit-sa/react-lottie",
-  "version": "1.0.0",
-  "description": "Made with create-react-library",
+  "version": "1.0.1",
+  "description": "A simple lottie module that is suitable for react applications",
   "author": "Abdilar",
   "license": "MIT",
   "repository": "Abdilar/@sakit-sa/react-lottie",
