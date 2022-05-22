@@ -1,0 +1,7 @@
+.lottie {
+  position: relative;
+  padding: 10px;
+  & > div {
+    transform: none !important;
+  }
+}
